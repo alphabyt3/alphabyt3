@@ -14,7 +14,7 @@ I'm a passionate **Computer Science student**. I'm eager to continuously improve
 - **Databases**:
 
 ### 📈 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alpsolak&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alphabyt3&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
 
 ### 📚 Blog & Articles:
 -
