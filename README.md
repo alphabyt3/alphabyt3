@@ -3,7 +3,7 @@
 I'm a passionate **Computer Science student**. I'm eager to continuously improve my skills and contribute to exciting open-source projects.
 
 ### 🧑‍💻 About Me:
-- 🔭 I’m currently working on improving my **Python** skills and exploring various computer science domains.
+- 🔭 I’m currently working on improving my **Java** skills and exploring various computer science domains.
 - 🌱 I'm constantly learning and growing through hands-on coding, reading tech blogs, and participating in coding challenges.
 - 📚 I'm currently studying **Computer Science** and aiming to deepen my knowledge.
 - 🎯 Looking forward to making meaningful contributions to open-source projects and collaborating with fellow developers.
